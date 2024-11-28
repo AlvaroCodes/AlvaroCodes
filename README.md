@@ -5,9 +5,7 @@
 
 - 🔭 I’m currently working on [Guadaltel, S.A.](https://www.guadaltel.com/)
 
-- 🌱 I’m currently learning **TypeScript, Next.js, Node.js, PostgreSQL, MongoDB,...**
-
-- 📫 How to reach me **aramirezdeveloper@gmail.com**
+- 📫 How to reach me **alvaroramirez.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
